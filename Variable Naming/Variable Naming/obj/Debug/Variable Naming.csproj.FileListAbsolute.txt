@@ -1,0 +1,7 @@
+C:\Users\md145823\Desktop\C# Project\Chapter 2\Variable Naming\Variable Naming\bin\Debug\Variable Naming.exe.config
+C:\Users\md145823\Desktop\C# Project\Chapter 2\Variable Naming\Variable Naming\bin\Debug\Variable Naming.exe
+C:\Users\md145823\Desktop\C# Project\Chapter 2\Variable Naming\Variable Naming\bin\Debug\Variable Naming.pdb
+C:\Users\md145823\Desktop\C# Project\Chapter 2\Variable Naming\Variable Naming\obj\Debug\Variable Naming.csprojAssemblyReference.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 2\Variable Naming\Variable Naming\obj\Debug\Variable Naming.csproj.CoreCompileInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 2\Variable Naming\Variable Naming\obj\Debug\Variable Naming.exe
+C:\Users\md145823\Desktop\C# Project\Chapter 2\Variable Naming\Variable Naming\obj\Debug\Variable Naming.pdb

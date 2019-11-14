@@ -1,0 +1,7 @@
+C:\Users\md145823\Desktop\C# Project\Chapter 2\Eggs\Eggs\bin\Debug\Eggs.exe.config
+C:\Users\md145823\Desktop\C# Project\Chapter 2\Eggs\Eggs\bin\Debug\Eggs.exe
+C:\Users\md145823\Desktop\C# Project\Chapter 2\Eggs\Eggs\bin\Debug\Eggs.pdb
+C:\Users\md145823\Desktop\C# Project\Chapter 2\Eggs\Eggs\obj\Debug\Eggs.csprojAssemblyReference.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 2\Eggs\Eggs\obj\Debug\Eggs.csproj.CoreCompileInputs.cache
+C:\Users\md145823\Desktop\C# Project\Chapter 2\Eggs\Eggs\obj\Debug\Eggs.exe
+C:\Users\md145823\Desktop\C# Project\Chapter 2\Eggs\Eggs\obj\Debug\Eggs.pdb

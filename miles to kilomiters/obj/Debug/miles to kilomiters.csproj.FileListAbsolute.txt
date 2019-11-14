@@ -1,0 +1,7 @@
+C:\Users\md145823\source\repos\miles to kilomiters\miles to kilomiters\bin\Debug\miles to kilomiters.exe.config
+C:\Users\md145823\source\repos\miles to kilomiters\miles to kilomiters\bin\Debug\miles to kilomiters.exe
+C:\Users\md145823\source\repos\miles to kilomiters\miles to kilomiters\bin\Debug\miles to kilomiters.pdb
+C:\Users\md145823\source\repos\miles to kilomiters\miles to kilomiters\obj\Debug\miles to kilomiters.csprojAssemblyReference.cache
+C:\Users\md145823\source\repos\miles to kilomiters\miles to kilomiters\obj\Debug\miles to kilomiters.csproj.CoreCompileInputs.cache
+C:\Users\md145823\source\repos\miles to kilomiters\miles to kilomiters\obj\Debug\miles to kilomiters.exe
+C:\Users\md145823\source\repos\miles to kilomiters\miles to kilomiters\obj\Debug\miles to kilomiters.pdb
